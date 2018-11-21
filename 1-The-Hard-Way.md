@@ -12,6 +12,12 @@ In this section of the workshop, we will be:
 
 ### Key Concepts
 
+#### What is Linux?
+
+#### What are services?
+
+#### What are ports?
+
 ### Let's Do It!
 
 ### Recap

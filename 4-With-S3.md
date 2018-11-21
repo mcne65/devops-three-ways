@@ -2,6 +2,8 @@
 
 ### Key Concepts
 
+#### Why serverless?
+
 ### Let's Do It!
 
 ### Recap
